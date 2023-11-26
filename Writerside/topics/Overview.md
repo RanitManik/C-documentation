@@ -1,4 +1,4 @@
-# C Language Overview
+# Overview of C
 
 ## Introduction
 

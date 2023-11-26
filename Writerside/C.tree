@@ -4,10 +4,13 @@
 
 <instance-profile id="C"
                  name="C documentation"
-                 start-page="Fundamentals-of-Programming.md">
+                 start-page="Fundamentals.md">
 
     <toc-element topic="Introduction.md">
-        <toc-element topic="Fundamentals-of-Programming.md"/>
-        <toc-element topic="Language-Overview.md"/>
+        <toc-element topic="Fundamentals.md"/>
+        <toc-element topic="Overview.md"/>
+        <toc-element topic="Features.md"/>
+        <toc-element topic="Required Software.md"/>
+        <toc-element topic="default.md"/>
     </toc-element>
 </instance-profile>
