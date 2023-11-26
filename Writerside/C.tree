@@ -8,5 +8,6 @@
 
     <toc-element topic="Introduction.md">
         <toc-element topic="Fundamentals-of-Programming.md"/>
+        <toc-element topic="Language-Overview.md"/>
     </toc-element>
 </instance-profile>
