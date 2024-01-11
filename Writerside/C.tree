@@ -4,13 +4,42 @@
 
 <instance-profile id="C"
                  name="C documentation"
-                 start-page="Fundamentals.md">
+                 start-page="page-01-01.md">
 
-    <toc-element topic="Introduction.md">
-        <toc-element topic="Fundamentals.md"/>
-        <toc-element topic="Overview.md"/>
-        <toc-element topic="Features.md"/>
-        <toc-element topic="Required Software.md"/>
-        <toc-element topic="default.md"/>
+    <toc-element topic="page-01.md">
+        <toc-element topic="page-01-01.md"/>
+        <toc-element topic="page-01-02.md"/>
+        <toc-element topic="page-01-03.md"/>
+    </toc-element>
+    <toc-element topic="page-02.md">
+        <toc-element topic="page-02-01.md"/>
+    </toc-element>
+    <toc-element topic="page-03.md">
+        <toc-element topic="page-03-01.md">
+        </toc-element>
+        <toc-element topic="page-03-02.md"/>
+        <toc-element topic="page-03-03.md"/>
+        <toc-element topic="page-03-04.md"/>
+        <toc-element topic="page-03-05.md"/>
+    </toc-element>
+    <toc-element topic="page-04.md">
+        <toc-element topic="page-04-01.md"/>
+        <toc-element topic="page-04-02.md"/>
+        <toc-element topic="page-04-03.md"/>
+        <toc-element topic="page-04-04.md"/>
+        <toc-element topic="page-04-05.md"/>
+        <toc-element topic="page-04-06.md"/>
+        <toc-element topic="page-04-07.md"/>
+        <toc-element topic="page-04-08.md"/>
+        <toc-element topic="page-04-09.md"/>
+        <toc-element topic="page-04-10.md"/>
+    </toc-element>
+    <toc-element topic="page-05.md">
+        <toc-element topic="page-05-01.md"/>
+        <toc-element topic="page-05-02.md"/>
+        <toc-element topic="page-05-03.md"/>
+        <toc-element topic="page-05-04.md"/>
+        <toc-element topic="page-05-05.md"/>
+        <toc-element topic="page-05-06.md"/>
     </toc-element>
 </instance-profile>

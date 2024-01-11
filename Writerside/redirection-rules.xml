@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="3e8b36f7">
-        <description>Created after removal of "Programming Fundamentals" from C documentation</description>
-        <accepts>Fundamentals-of-Programming.html</accepts>
-    </rule>
 </rules>
