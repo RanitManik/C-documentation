@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="C"
-                 name="C documentation"
-                 start-page="page-01-01.md">
+                  name="C documentation"
+                  start-page="page-01-01.md">
 
     <toc-element topic="page-01.md">
         <toc-element topic="page-01-01.md"/>
@@ -41,5 +41,39 @@
         <toc-element topic="page-05-04.md"/>
         <toc-element topic="page-05-05.md"/>
         <toc-element topic="page-05-06.md"/>
+    </toc-element>
+    <toc-element topic="page-06.md">
+        <toc-element topic="page-06-01.md"/>
+        <toc-element topic="page-06-02.md"/>
+        <toc-element topic="page-06-03.md"/>
+        <toc-element topic="page-06-04.md"/>
+        <toc-element topic="page-06-05.md"/>
+        <toc-element topic="page-06-06.md"/>
+        <toc-element topic="page-06-07.md"/>
+        <toc-element topic="page-06-08.md"/>
+    </toc-element>
+    <toc-element topic="page-07.md">
+        <toc-element topic="page-07-01.md"/>
+        <toc-element topic="page-07-02.md"/>
+        <toc-element topic="page-07-03.md"/>
+        <toc-element topic="page-07-04.md"/>
+        <toc-element topic="page-07-05.md"/>
+    </toc-element>
+    <toc-element topic="page-08.md">
+        <toc-element topic="page-08-01.md"/>
+        <toc-element topic="page-08-02.md"/>
+        <toc-element topic="page-08-03.md"/>
+        <toc-element topic="page-08-04.md"/>
+        <toc-element topic="page-08-05.md"/>
+        <toc-element topic="page-08-06.md"/>
+    </toc-element>
+    <toc-element topic="page-09.md">
+        <toc-element topic="page-09-01.md"/>
+        <toc-element topic="page-09-02.md"/>
+        <toc-element topic="page-09-03.md"/>
+        <toc-element topic="page-09-04.md"/>
+        <toc-element topic="page-09-05.md"/>
+        <toc-element topic="page-09-06.md"/>
+        <toc-element topic="page-09-07.md"/>
     </toc-element>
 </instance-profile>
