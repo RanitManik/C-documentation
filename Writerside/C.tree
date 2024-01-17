@@ -13,6 +13,8 @@
     </toc-element>
     <toc-element topic="page-02.md">
         <toc-element topic="page-02-01.md"/>
+        <toc-element topic="page-02-02.md"/>
+        <toc-element topic="page-02-03.md"/>
     </toc-element>
     <toc-element topic="page-03.md">
         <toc-element topic="page-03-01.md">
@@ -78,6 +80,10 @@
     </toc-element>
     <toc-element topic="page-10.md">
         <toc-element topic="page-10-01.md"/>
+        <toc-element topic="page-10-02.md"/>
+        <toc-element topic="page-10-03.md"/>
+        <toc-element topic="page-10-04.md"/>
+        <toc-element topic="page-10-05.md"/>
     </toc-element>
     <toc-element topic="page-11.md">
         <toc-element topic="page-11-01.md"/>
