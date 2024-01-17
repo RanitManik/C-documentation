@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://ranitmanik.github.io/C-documentation">
-    <img src="Writerside/images/logo.png" alt="Logo" height="150px">
+    <img src="Writerside/images/logo.png" alt="Logo" height="100px">
   </a>
 <h1> C Docs 1.0
 </h1>
