@@ -16,10 +16,8 @@
 <a href=".github/ISSUE_TEMPLATE/feature_request.md">Request Feature</a>
 </div>
 <br>
+
 Welcome to C Docs 1.0! This project aims to provide comprehensive documentation for beginners and enthusiasts delving into the foundational world of C programming.
-
-## About
-
 This documentation is authored by Ranit Manik, a dedicated programmer proficient in C, Python, and Java. The primary objective of this project is to offer a well-organized and beginner-friendly guide for mastering the fundamentals of C programming. The development of this project is facilitated using [JetBrains Writerside IDE](https://www.jetbrains.com/writerside/). To contribute to this project, it is recommended to download and utilize JetBrains [Writerside IDE](https://www.jetbrains.com/writerside/) for an optimal development experience.
 
 ## Features
