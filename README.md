@@ -17,12 +17,19 @@
 </div>
 <br>
 
-Welcome to C Docs 1.0! This project aims to provide comprehensive documentation for beginners and enthusiasts delving into the foundational world of C programming.
-This documentation is authored by Ranit Manik, a dedicated programmer proficient in C, Python, and Java. The primary objective of this project is to offer a well-organized and beginner-friendly guide for mastering the fundamentals of C programming. The development of this project is facilitated using [JetBrains Writerside IDE](https://www.jetbrains.com/writerside/). To contribute to this project, it is recommended to download and utilize JetBrains [Writerside IDE](https://www.jetbrains.com/writerside/) for an optimal development experience.
+Welcome to C Docs 1.0! This project aims to provide comprehensive documentation for beginners and enthusiasts delving
+into the foundational world of C programming.
+This documentation is authored by Ranit Manik, a dedicated programmer proficient in C, Python, and Java. The primary
+objective of this project is to offer a well-organized and beginner-friendly guide for mastering the fundamentals of C
+programming. The development of this project is facilitated
+using [JetBrains Writerside IDE](https://www.jetbrains.com/writerside/). To contribute to this project, it is
+recommended to download and utilize JetBrains [Writerside IDE](https://www.jetbrains.com/writerside/) for an optimal
+development experience.
 
 ## Features
 
-- **Structured Learning:** Follow a carefully designed structure, progressing from basic concepts to advanced techniques.
+- **Structured Learning:** Follow a carefully designed structure, progressing from basic concepts to advanced
+  techniques.
 
 - **Hands-On Examples:** Learn by doing with practical examples and exercises to reinforce your understanding.
 
@@ -61,6 +68,12 @@ This documentation is authored by Ranit Manik, a dedicated programmer proficient
    ```
 
 6. **Submit a Pull Request:** Open a pull request to the main repository, clearly describing your changes.
+
+## Support and Contribution
+
+- For support, questions, or suggestions, please refer to the [Support Guidelines](support.md).
+
+- To contribute to the project, follow the [Contribution Guidelines](contribution.md).
 
 ## License
 

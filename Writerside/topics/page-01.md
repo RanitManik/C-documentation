@@ -40,7 +40,7 @@ skill levels. Start from the basics and progressively advance to more complex to
 ### How can I contribute to this documentation? {collapsible="true"}
 
 We welcome contributions! If you find errors, want to suggest improvements, or add new content, please refer to
-our [Contribution Guidelines](https://github.com/RanitManik/C-documentation/contribution.md).
+our [Contribution Guidelines](https://github.com/RanitManik/C-documentation/blob/master/contribution.md).
 
 ### Does this guide cover the latest updates C? {collapsible="true"}
 
@@ -55,7 +55,8 @@ the code to reinforce your understanding.
 ## Feedback and Support
 
 We value your feedback and are here to support you on your learning journey. If you have any questions, encounter
-issues, or want to provide suggestions, please reach out to us through [our support portal](https://github.com/RanitManik/C-documentation/support.md).
+issues, or want to provide suggestions, please reach out to us
+through [our support portal](https://github.com/RanitManik/C-documentation/blob/master/support.md).
 
 Additionally, if you find this guide helpful, consider leaving feedback to help us enhance and improve the documentation
 for the entire community.
