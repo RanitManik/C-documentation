@@ -83,13 +83,10 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE.md]
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- [Email](mailto:ranitmanik.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
-- [GitHub](https://github.com/RanitManik)
-- [Instagram](https://www.instagram.com/ranit_manik_/)
-- [Facebook](https://www.facebook.com/RanitKumarManik/)
-- [Twitter](https://twitter.com/RANIT_MANIK)
-- [Codepen](https://codepen.io/RANIT-MANIK)
-- [replit](https://replit.com/@ranit-manik)
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
 Happy coding!
