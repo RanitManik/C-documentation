@@ -27,14 +27,13 @@ recommended to download and utilize JetBrains [Writerside IDE](https://www.jetbr
 development experience.
 
 ## Table of Contents
-<ul>
-  <li><a href="#features">Features</a></li>
-  <li><a href="who-is-this-for?">Who Is This For?</a>
-  <li><a href="#how-to-contribute">Contribution</a></li>
-  <li><a href="#support-and-contribution">Support and Contribution</a></li> 
-  <li><a href="#license">License</a></li>
-  <li><a href="#contact">Contact</a></li>
-</ul>
+
+- [Features](#features)
+- [Who Is This For?](#who-is-this-for)
+- [Contribution](#how-to-contribute)
+- [Support and Contribution](#support-and-contribution)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
