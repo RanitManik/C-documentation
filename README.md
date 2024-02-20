@@ -34,6 +34,7 @@ development experience.
 - [Support and Contribution](#support-and-contribution)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgment](#acknowledgment)
 
 ## Features
 
@@ -128,3 +129,16 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE.md]
     <td><a href="https://twitter.com/RANIT_MANIK" target="_blank">Twitter</a></td>
   </tr>
 </table>
+
+## Acknowledgment
+
+I want to express my sincere appreciation to all contributors who have played a vital role in the development of C Docs 1.0. Your dedication and collaborative efforts have significantly enriched this documentation, making it a valuable asset for individuals venturing into C programming.
+
+The structured learning approach, practical examples, and visual aids have been enhanced through your valuable contributions, creating a more effective resource for learners. Your commitment to forking, creating branches, and submitting pull requests has been pivotal in shaping the project.
+
+I genuinely appreciate the time and expertise each contributor has invested. Your efforts have not gone unnoticed, and I am grateful for the collective impact we have made on C Docs 1.0.
+
+Thank you for your valuable contributions.
+
+Best regards,
+Ranit Manik
