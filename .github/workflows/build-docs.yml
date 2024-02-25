@@ -99,7 +99,7 @@ jobs:
           env algolia-key=${{env.ALGOLIA_KEY}} java -jar /opt/builder/help-publication-agent.jar \
           update-index \
           --application-name ${{env.ALGOLIA_APP_NAME}} \
-          --index-name ${{env.ALGOLIA_INDEX_NAME}} \
+          --index-name "C Documentation" \
           --product ${{env.CONFIG_JSON_PRODUCT}} \
           --version ${{env.CONFIG_JSON_VERSION}} \
           --index-directory algolia-indexes/ \
