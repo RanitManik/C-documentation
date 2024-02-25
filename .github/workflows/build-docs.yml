@@ -18,7 +18,7 @@ env:
   ALGOLIA_INDEX_NAME: 'C-Documentation'
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: 'C'
-  CONFIG_JSON_VERSION: '1'
+  CONFIG_JSON_VERSION: 'V1'
 
 jobs:
   build:
