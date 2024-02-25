@@ -190,16 +190,7 @@ jobs:
         with:
           name: docs
       - name: Unzip artifact
-        run: |
-          unzip -O UTF-8 -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
-          env algolia-key=${{ env.ALGOLIA_KEY }} java -jar /opt/builder/help-publication-agent.jar \
-          update-index \
-          --application-name ${{ env.ALGOLIA_APP_NAME }} \
-          --index-name "C Documentation" \
-          --product ${{ env.CONFIG_JSON_PRODUCT }} \
-          --version ${{ env.CONFIG_JSON_VERSION }} \
-          --index-directory algolia-indexes/ \
-          2>&1 | tee algolia-update-index-log.txt
+        run: 'unzip -O UTF-8 -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes && env algolia-key=${{ env.ALGOLIA_KEY }} java -jar /opt/builder/help-publication-agent.jar update-index --application-name ${{ env.ALGOLIA_APP_NAME }} --index-name "C Documentation" --product C --version 1 --index-directory algolia-indexes/ 2>&1 | tee algolia-update-index-log.txt'
         shell: sh -e {0}
         env:
           ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
