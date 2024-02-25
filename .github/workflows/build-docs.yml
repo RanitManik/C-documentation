@@ -13,7 +13,7 @@ env:
   INSTANCE: Writerside/C
   ARTIFACT: webHelpC2-all.zip
   DOCKER_VERSION: 233.14389
-  ALGOLIA_ARTIFACT: webHelpC2-all.zip
+  ALGOLIA_ARTIFACT: algolia-indexes-C.zip
   ALGOLIA_APP_NAME: SNWVWAU8YB
   ALGOLIA_INDEX_NAME: C Documentation
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
