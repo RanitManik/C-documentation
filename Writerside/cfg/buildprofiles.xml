@@ -8,11 +8,11 @@
 
     <build-profile instance="C">
         <variables>
-            <noindex-content>true</noindex-content>
             <algolia-id>SNWVWAU8YB</algolia-id>
             <algolia-index>C Documentation</algolia-index>
             <algolia-api-key>4152b3dff29a066cf742337b2e8e6e35</algolia-api-key>
             <web-root>https://ranitmanik.github.io/C-documentation/</web-root>
+            <noindex-content>false</noindex-content>
         </variables>
         <footer>
             <copyright>Ranit Manik</copyright>
