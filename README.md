@@ -55,18 +55,18 @@ development experience.
 
 ## Technologies Used
 
-| Tool                                      | Description                                                                                                       |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 🛠️ **WriterSide IDE**                     | Leveraged JetBrains WriterSide IDE for an optimal development experience and streamlined coding.                      |
-| 🔄 **Git**                                | Version control system utilized for tracking changes and collaborating with contributors.                            |
-| 🐙 **GitHub**                             | Hosting platform employed for version control, collaboration, and project management.                                 |
-| 🤖 **GitHub Actions**                     | Automated workflows set up for continuous integration and continuous deployment, ensuring efficient development.      |
-| ⚙️ **CI/CD**                              | Implementation of CI/CD practices to automate testing and deployment, enhancing the overall development workflow.  |
-| 📄 **XML**                                | Used for structured data representation, enhancing the organization of certain aspects of the project.                |
-| 📄 **YML**                                | Configuration language employed for defining GitHub Actions workflows and other settings.                              |
-| 📝 **Markdown**                           | Lightweight markup language used for easy-to-read and easy-to-write documentation.                                     |
-| 📜 **MIT License**                        | Open-source license applied to the project, providing users with the freedom to use, modify, and distribute the software. |
-| 🔎 **algoila Search**                     | Incorporation of algoila Search for efficient and effective search functionality within the documentation.          |
+| Tool                          | Description                                                                                                               |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **WriterSide IDE**            | Leveraged JetBrains WriterSide IDE for an optimal development experience and streamlined coding.                          |
+| **Git**                       | Version control system utilized for tracking changes and collaborating with contributors.                                 |
+| **GitHub**                    | Hosting platform employed for version control, collaboration, and project management.                                     |
+| **GitHub Actions**            | Automated workflows set up for continuous integration and continuous deployment, ensuring efficient development.          |
+| **CI/CD**                     | Implementation of CI/CD practices to automate testing and deployment, enhancing the overall development workflow.         |
+| **XML**                       | Used for structured data representation, enhancing the organization of certain aspects of the project.                    |
+| **YML**                       | Configuration language employed for defining GitHub Actions workflows and other settings.                                 |
+| **Markdown**                  | Lightweight markup language used for easy-to-read and easy-to-write documentation.                                        |
+| **MIT License**               | Open-source license applied to the project, providing users with the freedom to use, modify, and distribute the software. |
+| **algoila Search**            | Incorporation of algoila Search for efficient and effective search functionality within the documentation.                |
 
 ## How to Contribute
 
